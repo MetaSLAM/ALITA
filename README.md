@@ -28,6 +28,7 @@ ALITA dataset is composed by two dataset wh
 ## Citation
 
 ## Related Work
-**AutoMerge: A Framework for Map Assembling and Smoothing in City-scale Environments**
+**AutoMerge: A Framework for Map Assembling and Smoothing in City-scale Environments**</br>
 Peng Yin, Haowen Lai, Shiqi Zhao, Ruijie Fu, Ivan Cisneros, Ruohai Ge, Ji Zhang, Howie Choset, and Sebastian Scherer
+
 Github: https://github.com/MetaSLAM/AutoMerge_Server
