@@ -3,7 +3,7 @@
 
 ## Release 
 
-* **Part of Urban dataset has been released through :trophy:[GPR Competition](https://github.com/MetaSLAM/GPR_Competition/tree/main)** which aims to push visual and LiDAR state-of-the-art techniques for localization in large-scale environments. The final round will start at 24/05/2022, participants who are interested could pay a visit to our [official competition website](https://sites.google.com/andrew.cmu.edu/gpr-competition/) for more details.</br>
+* **Part of Urban dataset has been released through :trophy:[GPR Competition](https://github.com/MetaSLAM/GPR_Competition/tree/main)** which aims to push visual and LiDAR state-of-the-art techniques for localization in large-scale environments. The final round will start at 30/05/2022, participants who are interested could pay a visit to our [official competition website](https://sites.google.com/andrew.cmu.edu/gpr-competition/) for more details.</br>
   **Sign up for GPR Competition:**</br>
   :point_right: [[ICRA2022] General Place Recognition: City-scale UGV Localization](https://www.aicrowd.com/challenges/icra2022-general-place-recognition-city-scale-ugv-localization/)</br>
   :point_right: [[ICRA2022] General Place Recognition: Visual Terrain Relative Navigation](https://www.aicrowd.com/challenges/icra2022-general-place-recognition-visual-terrain-relative-navigation/)
@@ -26,6 +26,19 @@ ALITA dataset is composed by two dataset wh
 ## Python API Usage -->
 
 ## Citation
+
+If you use this dataset in your research, please cite as:
+
+```
+@misc{yin2022alita,
+      title={ALITA: A Large-scale Incremental Dataset for Long-term Autonomy}, 
+      author={Peng Yin and Shiqi Zhao and Ruohai Ge and Ivan Cisneros and Ruijie Fu and Ji Zhang and Howie Choset and Sebastian Scherer},
+      year={2022},
+      eprint={2205.10737},
+      archivePrefix={arXiv},
+      primaryClass={cs.RO}
+}
+```
 
 ## Related Work
 **AutoMerge: A Framework for Map Assembling and Smoothing in City-scale Environments**</br>
