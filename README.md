@@ -3,12 +3,12 @@
 
 ## Release 
 
-* **Part of Urban dataset has been released through :trophy:[GPR Competition](https://github.com/MetaSLAM/GPR_Competition/tree/main)** which aims to push visual and LiDAR state-of-the-art techniques for localization in large-scale environments. The final round will start at 06/01/2022, participants who are interested could pay a visit to our [official competition website](https://sites.google.com/andrew.cmu.edu/gpr-competition/) for more details.</br>
+* **Part of Urban dataset has been released through :trophy:[GPR Competition](https://github.com/MetaSLAM/GPR_Competition/tree/main)** which aims to push visual and LiDAR state-of-the-art techniques for localization in large-scale environments. The final round will start at 06/05/2022, participants who are interested could pay a visit to our [official competition website](https://sites.google.com/andrew.cmu.edu/gpr-competition/) for more details.</br>
   **Sign up for GPR Competition:**</br>
   :point_right: [[ICRA2022] General Place Recognition: City-scale UGV Localization](https://www.aicrowd.com/challenges/icra2022-general-place-recognition-city-scale-ugv-localization/)</br>
   :point_right: [[ICRA2022] General Place Recognition: Visual Terrain Relative Navigation](https://www.aicrowd.com/challenges/icra2022-general-place-recognition-visual-terrain-relative-navigation/)
-* **Traning set will be available by the end of May 2022**
-* **Python API will be available by the end of May 2022**
+* **Traning set will be available by June 15 2022**
+* **Python API will be available by June 15 2022**
 * **Entire dataset will be released after GPR Competition**
   
 ## Dataset Description
