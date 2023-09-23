@@ -10,6 +10,7 @@
 * **Traning set will be available by June 15 2022**
 * **Python API will be available by June 15 2022**
 * **Entire dataset will be released after GPR Competition**
+* Rosbag https://www.dropbox.com/sh/svxb160qcrq0j3e/AABPvyeOxNPMKuTMERfEcwaPa?dl=0
   
 ## Dataset Description
 
