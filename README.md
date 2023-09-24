@@ -7,9 +7,6 @@
   **Sign up for GPR Competition:**</br>
   :point_right: [[ICRA2022] General Place Recognition: City-scale UGV Localization](https://www.aicrowd.com/challenges/icra2022-general-place-recognition-city-scale-ugv-localization/)</br>
   :point_right: [[ICRA2022] General Place Recognition: Visual Terrain Relative Navigation](https://www.aicrowd.com/challenges/icra2022-general-place-recognition-visual-terrain-relative-navigation/)
-* **Traning set will be available by June 15 2022**
-* **Python API will be available by June 15 2022**
-* **Entire dataset will be released after GPR Competition**
 * Rosbag https://www.dropbox.com/sh/svxb160qcrq0j3e/AABPvyeOxNPMKuTMERfEcwaPa?dl=0
   
 ## Dataset Description
