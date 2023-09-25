@@ -7,7 +7,8 @@
   **Sign up for GPR Competition:**</br>
   :point_right: [[ICRA2022] General Place Recognition: City-scale UGV Localization](https://www.aicrowd.com/challenges/icra2022-general-place-recognition-city-scale-ugv-localization/)</br>
   :point_right: [[ICRA2022] General Place Recognition: Visual Terrain Relative Navigation](https://www.aicrowd.com/challenges/icra2022-general-place-recognition-visual-terrain-relative-navigation/)
-* Rosbag https://www.dropbox.com/sh/svxb160qcrq0j3e/AABPvyeOxNPMKuTMERfEcwaPa?dl=0
+* Raw Data https://www.dropbox.com/sh/svxb160qcrq0j3e/AABPvyeOxNPMKuTMERfEcwaPa?dl=0
+* Processed Data https://www.dropbox.com/scl/fo/9o3uhejbyidxxwlnx912m/h?rlkey=bpryzdghexxez9p1m9100viqd&dl=0
   
 ## Dataset Description
 
