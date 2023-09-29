@@ -2,7 +2,7 @@
 **ALITA: A Large-scale Incremental Dataset for Long-term Autonomy**
 
 ## Competition
-:trophy:[GPR Competition](https://github.com/MetaSLAM/GPR_Competition/tree/main)** which aims to push visual and LiDAR state-of-the-art techniques for localization in large-scale environments. The final round will start at 06/05/2022, participants who are interested could pay a visit to our [official competition website](https://sites.google.com/andrew.cmu.edu/gpr-competition/) for more details.</br>
+:trophy:[GPR Competition](https://github.com/MetaSLAM/GPR_Competition/tree/main) which aims to push visual and LiDAR state-of-the-art techniques for localization in large-scale environments. The final round will start at 06/05/2022, participants who are interested could pay a visit to our [official competition website](https://sites.google.com/andrew.cmu.edu/gpr-competition/) for more details.</br>
 :trophy:[General Place Recognition (GPR) for Autonomous Map Assembling](https://metaslam.github.io/competitions/iros2023/)** which aims to evaluate the data association ability between trajectories that exhibit overlapping regions, without any GPS assistance. Participants who are interested could pay a visit to our [official competition website](https://www.aicrowd.com/challenges/icra2022-general-place-recognition-visual-terrain-relative-navigation/) for more details.</br>
   **Sign up for GPR Competition:**</br>
     :point_right: [[ICRA2022] General Place Recognition: Visual Terrain Relative Navigation](https://www.aicrowd.com/challenges/icra2022-general-place-recognition-visual-terrain-relative-navigation/)</br>
