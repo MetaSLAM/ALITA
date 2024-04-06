@@ -58,8 +58,6 @@ topics, namely /imu/data, /velodyne points and
 /camera/image, representing Inertial Measurement
 Unit(IMU), LiDAR and camera, respectively
 
-## Python API Usage
-
 ## Citation
 
 If you use this dataset in your research, please cite as:
