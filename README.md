@@ -82,7 +82,6 @@ If you use this dataset in your research, please cite as:
 ```
 
 ## Related Work
-**AutoMerge: A Framework for Map Assembling and Smoothing in City-scale Environments**</br>
-Peng Yin, Haowen Lai, Shiqi Zhao, Ruijie Fu, Ivan Cisneros, Ruohai Ge, Ji Zhang, Howie Choset, and Sebastian Scherer
+**[AutoMerge: A Framework for Map Assembling and Smoothing in City-scale Environments](https://ieeexplore.ieee.org/document/10203034)**</br>
 
 Github: https://github.com/MetaSLAM/AutoMerge_Server
